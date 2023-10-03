@@ -20,4 +20,4 @@ inputDOM.addEventListener('keydown', (event) => {
 // 3. symbol dividing parts
 // 4. DOM element
 
-inputDOM.addEventListener('input', () => inputSplitHandler(4, 16, ' :) ', inputDOM));
+inputDOM.addEventListener('input', () => inputSplitHandler(4, 16, ' ♡ ', inputDOM));
